@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringCalculatorTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2020-04-29T19:38:30" hostname="recruit-ThinkCentre-M72e" time="0.045">
+  <properties/>
+  <testcase name="acceptsMultipleDelimiters" classname="StringCalculatorTest" time="0.017"/>
+  <testcase name="sumsEmptyStringTo0" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="sumsNumbersDelimitedByNewline" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="usesDelimiterSepcified" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="sumsThreeNumbersSeperatedByComma" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="acceptsDelimiterOfArbitraryLength" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="sumsSingleNumberToItself" classname="StringCalculatorTest" time="0.001"/>
+  <testcase name="sumsNumbersDelimitedByCommaOrNewline" classname="StringCalculatorTest" time="0.008"/>
+  <testcase name="mapsNumbersAbove1000ToLastThreeDigits" classname="StringCalculatorTest" time="0.003"/>
+  <testcase name="sumsTwoNumbersSeperatedByComma" classname="StringCalculatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
